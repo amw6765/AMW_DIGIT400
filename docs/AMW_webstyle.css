@@ -8,3 +8,13 @@ ol {list-style-type: lower-alpha;
 padding: 5em;
     
 }
+
+changeColor {
+background-color: #0066ff;
+}
+
+(---) {
+span.place.on {color:#3333CC}
+span.character.on {color:#FF3300}
+span.object.on {color:#477519}
+}
